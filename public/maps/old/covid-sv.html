@@ -1,0 +1,87 @@
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<script src="municipios.js"></script>
+	<style>
+		body {
+			font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+		}
+
+		#tooltip {
+			background: cornsilk;
+			border: 1px solid black;
+			border-radius: 5px;
+			padding: 5px;
+		}
+
+		.colorbar {
+			height: 25px;
+			background: linear-gradient(to right, hsl(0, 100%, 95%) 0%, hsl(0, 100%, 50%) 50%, hsl(0, 100%, 5%) 100%)
+		}
+
+		.copy {
+			width: 100%;
+			text-align: right;
+			color: silver;
+			font-size: small;
+		}
+
+		.tablaMunicipios {
+			font-size: small;
+			background-color: lightgreen;
+			margin-right: auto;
+			margin-left: auto;
+			border: darkgray;
+			border-collapse: collapse;
+		}
+		.tablaMunicipios td th {
+			border: 1px solid darkgray;
+		}
+
+		.tablaMunicipios tr:nth-child(even) {background-color: rgb(135, 245, 135);}
+	</style>
+</head>
+
+<body>
+	<div id="app">
+		<object id="mapa" data="el_salvador.svg" type="image/svg+xml" style="width:100%"></object>
+		<div class="copy">Creador: Franklin Orellana, Tritium S.p.A. © 2020 - Fuente de datos: https://covid19.gob.sv/ (6 DE MAYO 2020 10:35 p.m)</div>
+		<table id="colorbar" width="100%">
+			<tr>
+				<td style="background:lightgreen; width:4%">&nbsp;</td>
+				<td colspan=3 class="colorbar"></td>
+			</tr>
+			<tr>
+				<td style="text-align:center; width:4%">0</td>
+				<td style="text-align:left; width:30%">1</td>
+				<td style="text-align:center; width:30%">{{Math.floor(maxVal / 2)}}</td>
+				<td style="text-align:right; width:36%">{{maxVal}}</td>
+			</tr>
+			<tr>
+				<td colspan=4 style="text-align:center;">Total de casos LOCALES en todo el país: <b>{{total}}</b></td>
+			</tr>
+		</table>
+
+		<h2>Municipios con mas casos:</h2>
+
+		<table class="tablaMunicipios">
+			<tr>
+				<th>Departamento</th>
+				<th>Municipio</th>
+				<th>Casos</th>
+			</tr>
+			<tr v-for="x in tablaMunicipios.slice(0,10)" @mouseover="resaltarMunicipio(x.municipio)" @mouseout="resaltarMunicipio(x.municipio,false)">
+				<td>{{x.departamento}}</td>
+				<td>{{x.municipio.nombre}}</td>
+				<td>{{x.casos}}</td>
+			</tr>
+		</table>
+
+		<div>el salvador: {{elsalvador}}</div>
+		<div id="tooltip" display="none" style="position: absolute; display: none;"></div>
+	</div>
+	<script type="module" src="mapas.js"></script>
+</body>
+
+</html>

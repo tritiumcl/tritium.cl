@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="1335" height="600" viewBox="0 0 317.89689 142.875" version="1.1" id="svg1046" inkscape:version="0.92.4 (5da689c313, 2019-01-14)" sodipodi:docname="logo_con_texto_banner_inkscape.svg">
+  <title id="title1943">LOGO TRITIUM</title>
+  <defs id="defs1040">
+    <linearGradient inkscape:collect="always" id="linearGradient1806">
+      <stop style="stop-color:#1a1a1a;stop-opacity:1" offset="0" id="stop1802" />
+      <stop style="stop-color:#4d4d4d;stop-opacity:1" offset="1" id="stop1804" />
+    </linearGradient>
+    <clipPath clipPathUnits="userSpaceOnUse" id="presentation_clip_path">
+      <rect id="rect1662" height="27940" width="21590" y="0" x="0" />
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="presentation_clip_path_shrink">
+      <rect id="rect1665" height="27885" width="21547" y="27" x="21" />
+    </clipPath>
+    <g transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)" id="bullet-char-template-57356">
+      <path id="path1672" d="M 580,1141 1163,571 580,0 -4,571 Z" inkscape:connector-curvature="0" />
+    </g>
+    <g transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)" id="bullet-char-template-57354">
+      <path id="path1675" d="M 8,1128 H 1137 V 0 H 8 Z" inkscape:connector-curvature="0" />
+    </g>
+    <g transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)" id="bullet-char-template-10146">
+      <path id="path1678" d="M 174,0 602,739 174,1481 1456,739 Z M 1358,739 309,1346 659,739 Z" inkscape:connector-curvature="0" />
+    </g>
+    <g transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)" id="bullet-char-template-10132">
+      <path id="path1681" d="M 2015,739 1276,0 H 717 l 543,543 H 174 v 393 h 1086 l -543,545 h 557 z" inkscape:connector-curvature="0" />
+    </g>
+    <g transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)" id="bullet-char-template-10007">
+      <path id="path1684" d="m 0,-2 c -7,16 -16,29 -25,39 l 381,530 c -94,256 -141,385 -141,387 0,25 13,38 40,38 9,0 21,-2 34,-5 21,4 42,12 65,25 l 27,-13 111,-251 280,301 64,-25 24,25 c 21,-10 41,-24 62,-43 C 886,937 835,863 770,784 769,783 710,716 594,584 L 774,223 c 0,-27 -21,-55 -63,-84 l 16,-20 C 717,90 699,76 672,76 641,76 570,178 457,381 L 164,-76 c -22,-34 -53,-51 -92,-51 -42,0 -63,17 -64,51 -7,9 -10,24 -10,44 0,9 1,19 2,30 z" inkscape:connector-curvature="0" />
+    </g>
+    <g transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)" id="bullet-char-template-10004">
+      <path id="path1687" d="M 285,-33 C 182,-33 111,30 74,156 52,228 41,333 41,471 c 0,78 14,145 41,201 34,71 87,106 158,106 53,0 88,-31 106,-94 l 23,-176 c 8,-64 28,-97 59,-98 l 735,706 c 11,11 33,17 66,17 42,0 63,-15 63,-46 V 965 c 0,-36 -10,-64 -30,-84 L 442,47 C 390,-6 338,-33 285,-33 Z" inkscape:connector-curvature="0" />
+    </g>
+    <g transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)" id="bullet-char-template-9679">
+      <path id="path1690" d="M 813,0 C 632,0 489,54 383,161 276,268 223,411 223,592 c 0,181 53,324 160,431 106,107 249,161 430,161 179,0 323,-54 432,-161 108,-107 162,-251 162,-431 0,-180 -54,-324 -162,-431 C 1136,54 992,0 813,0 Z" inkscape:connector-curvature="0" />
+    </g>
+    <g transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)" id="bullet-char-template-8226">
+      <path id="path1693" d="m 346,457 c -73,0 -137,26 -191,78 -54,51 -81,114 -81,188 0,73 27,136 81,188 54,52 118,78 191,78 73,0 134,-26 185,-79 51,-51 77,-114 77,-187 0,-75 -25,-137 -76,-188 -50,-52 -112,-78 -186,-78 z" inkscape:connector-curvature="0" />
+    </g>
+    <g transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)" id="bullet-char-template-8211">
+      <path id="path1696" d="M -4,459 H 1135 V 606 H -4 Z" inkscape:connector-curvature="0" />
+    </g>
+    <g transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)" id="bullet-char-template-61548">
+      <path id="path1699" d="m 173,740 c 0,163 58,303 173,419 116,115 255,173 419,173 163,0 302,-58 418,-173 116,-116 174,-256 174,-419 0,-163 -58,-303 -174,-418 C 1067,206 928,148 765,148 601,148 462,206 346,322 231,437 173,577 173,740 Z" inkscape:connector-curvature="0" />
+    </g>
+    <radialGradient inkscape:collect="always" xlink:href="#linearGradient1806" id="radialGradient1808" cx="11825.687" cy="7180.0347" fx="11825.687" fy="7180.0347" r="6613.4473" gradientTransform="matrix(0.01800422,0,0,1.5361606e-4,-32.809991,105.8881)" gradientUnits="userSpaceOnUse" />
+    <radialGradient inkscape:collect="always" xlink:href="#linearGradient1806" id="radialGradient1808-5" cx="11825.687" cy="7180.0347" fx="11825.687" fy="7180.0347" r="6613.4473" gradientTransform="matrix(0.01800422,0,0,-1.535273e-4,-32.809902,213.10706)" gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="0.58718102" inkscape:cx="655.05667" inkscape:cy="250.07217" inkscape:document-units="px" inkscape:current-layer="layer4" showgrid="false" inkscape:window-width="1366" inkscape:window-height="705" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:window-maximized="1" scale-x="0.9" fit-margin-top="100" fit-margin-left="100" fit-margin-right="100" fit-margin-bottom="100" units="px" />
+  <metadata id="metadata1043">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>LOGO TRITIUM</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Franklin Orellana</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g inkscape:groupmode="layer" id="layer4" inkscape:label="logo tritium" style="display:inline" transform="translate(-21.154315,-88.085478)">
+    <path style="display:inline;fill:url(#radialGradient1808);fill-opacity:1;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:0.42349011;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 61.047642,106.10588 238.111068,0.0206 c -125.79399,3.94888 -238.111068,-0.0206 -238.111068,-0.0206 z" id="path1800" inkscape:connector-curvature="0" sodipodi:nodetypes="ccc" />
+    <path style="display:inline;fill:url(#radialGradient1808-5);fill-opacity:1;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:0.42336768;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 61.047683,212.88943 238.110977,-0.0206 c -125.79395,-3.9466 -238.110977,0.0206 -238.110977,0.0206 z" id="path1800-1" inkscape:connector-curvature="0" sodipodi:nodetypes="ccc" />
+    <g transform="matrix(1.7129043,0,0,1.7129043,58.447926,-326.66765)" id="layer1-8" inkscape:label="Capa 1">
+      <circle r="8.4666672" style="fill:#7ebfe5;fill-opacity:1;stroke-width:0.2846972" cy="286.41666" cx="15.08125" id="path26" />
+      <ellipse ry="5.953125" rx="6.6145835" cy="280.46353" cx="8.2020836" id="path833" style="fill:#a3c856;fill-opacity:0.99607843;stroke-width:0.38598934" />
+      <ellipse ry="2.3812499" rx="2.6458333" cy="274.51041" cx="17.991667" id="path5083" style="fill:#f46f22;fill-opacity:1;stroke-width:0.20632599" />
+      <path id="path26-9" d="m 14.231638,278.0048 a 8.4666672,8.4666672 0 0 0 -7.5928185,8.23361 6.6145834,5.953125 0 0 0 1.5787149,0.17983 6.6145834,5.953125 0 0 0 6.6145836,-5.95313 6.6145834,5.953125 0 0 0 -0.60048,-2.46031 z" style="fill:#83b850;fill-opacity:1;stroke-width:0.2846972" inkscape:connector-curvature="0" />
+    </g>
+    <path style="fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:0.58661759;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 110.86507,148.48461 c -14.930478,0 -13.958669,0.61841 -13.958669,0.61841 l -0.265041,-3.79889 c 0,0 13.34025,1.32518 31.89291,-0.0885 l 0.0883,3.79902 c 0,0 -5.03573,-0.88347 -13.69364,-0.53008 -0.44173,0.35337 -0.0884,31.0978 -0.0884,31.0978 h -4.2406 z" id="path1887" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccccc" />
+    <path style="fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:0.58661759px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 134.02177,179.11927 -0.23156,-29.25369 c 0,0 17.7529,-1.00343 18.29321,6.8696 0,0 0.38593,4.39964 -6.3293,8.79927 l 9.95707,11.03768 -2.85591,3.01028 -11.73235,-14.3567 c 0,0 6.09774,-2.77872 6.8696,-7.17836 0,0 1.00343,-5.71181 -10.11143,-5.01712 l -1e-5,26.16624 z" id="path1897" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccccccccc" />
+    <rect style="opacity:1;fill:#4c4c4c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.58848286;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" id="rect1899" width="4.0322804" height="29.758419" x="163.85861" y="149.82397" />
+    <path style="display:inline;fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:0.51426339;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 186.67353,152.65447 c -13.25144,0 -12.38891,0.53549 -12.38891,0.53549 l -0.23524,-3.2895 c 0,0 11.84002,1.1475 28.30634,-0.0765 l 0.0783,3.28962 c 0,0 -4.46944,-0.765 -12.15368,-0.45902 -0.39206,0.30601 -0.0783,26.92785 -0.0783,26.92785 h -3.76375 z" id="path1887-1" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccccc" />
+    <rect style="display:inline;opacity:1;fill:#4c4c4c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.58848286;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" id="rect1899-7" width="4.0322804" height="29.758421" x="209.71536" y="149.82397" />
+    <path style="fill:none;stroke:#4c4c4c;stroke-width:3.88567066;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 227.17746,150.55391 0.32694,12.20022 c 0,0 -1.10395,14.92493 10.78922,14.84378 0,0 11.33414,1.63177 11.98801,-14.42667 v -13.34725" id="path1939" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccc" />
+    <path style="fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:0.58180475px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 256.86726,178.37347 9.9267,-28.54948 10.40565,19.51764 11.53386,-18.59902 10.30488,26.41061 -3.22059,2.24319 -7.84683,-21.01689 -11.06119,17.39008 -9.83214,-17.57605 -6.80688,21.38886 z" id="path1941" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccccccccc" />
+  </g>
+</svg>
