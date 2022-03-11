@@ -1,0 +1,2 @@
+user-agent: *
+sitemap: https://tritium.cl/sitemap.txt
