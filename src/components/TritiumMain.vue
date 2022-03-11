@@ -58,12 +58,12 @@
 			</ol>
 			<div class="carousel-inner">
 				<div class="carousel-item active">
-					<!--img class="first-slide" src="images/back-grid-500.jpg" alt="First slide"-->
-					<img class="first-slide carousel" src="images/carousel-back.svg" alt="First slide" style="display:block;margin-left: auto;margin-right: auto;">
+					<!--img class="first-slide" src="/images/back-grid-500.jpg" alt="First slide"-->
+					<img class="first-slide carousel" src="/images/carousel-back.svg" alt="First slide" style="display:block;margin-left: auto;margin-right: auto;">
 					<div class="container">
 						<div class="carousel-caption">
 
-							<h1><img src="logos/logo_simple.svg" style="width:75px;height:75px;" />TRITIUM<span class="d-none d-md-inline">
+							<h1><img src="/logos/logo_simple.svg" style="width:75px;height:75px;" />TRITIUM<span class="d-none d-md-inline">
 									-</span> Consultoría y Asesoría</h1>
 							<p>Somos profesionales que brindamos consultoría informática en diversas áreas, principalmente en software de
 								Recursos Humanos.</p>
@@ -74,7 +74,7 @@
                 
                 
 				<div class="carousel-item">
-					<img class="first-slide carousel" src="images/carousel-back.svg" alt="First slide" style="display:block;margin-left: auto;margin-right: auto;">
+					<img class="first-slide carousel" src="/images/carousel-back.svg" alt="First slide" style="display:block;margin-left: auto;margin-right: auto;">
 					<div class="container">
 						<div class="carousel-caption">
 							<h1>
@@ -89,8 +89,8 @@
 				</div>
                 
 				<div class="carousel-item">
-					<!--img class="second-slide" src="images/back-512.jpg" alt="Second slide"-->
-					<img class="second-slide carousel" src="images/carousel-back.svg" alt="Second slide">
+					<!--img class="second-slide" src="/images/back-512.jpg" alt="Second slide"-->
+					<img class="second-slide carousel" src="/images/carousel-back.svg" alt="Second slide">
 					<div class="container">
 						<div class="carousel-caption">
 							<h1>Desarrollo e Implementación de Sistemas</h1>
@@ -101,7 +101,7 @@
 					</div>
 				</div>
 				<div class="carousel-item">
-					<img class="third-slide carousel" src="images/carousel-back.svg" alt="Third slide">
+					<img class="third-slide carousel" src="/images/carousel-back.svg" alt="Third slide">
 					<div class="container">
 						<div class="carousel-caption">
 							<h1>Capacitación</h1>
@@ -131,20 +131,20 @@
 			<!-- Three columns of text below the carousel -->
 			<div class="row">
 				<div class="col-lg-4">
-					<img class="rounded-circle" src="images/consulting-circle-140.jpg" alt="Consulting" width="140" height="140">
+					<img class="rounded-circle" src="/images/consulting-circle-140.jpg" alt="Consulting" width="140" height="140">
 					<h2>Consultoría y Asesoría</h2>
 					<p>Nos ponemos del lado de su empresa para asesorarlo en proyectos.</p>
 					<p><a class="btn btn-secondary" href="#consulting" role="button">Ver detalles &raquo;</a></p>
 				</div>
 				<div class="col-lg-4">
-					<img class="rounded-circle" src="images/development cycle with users.svg" alt="Development" width="140" height="140">
+					<img class="rounded-circle" src="/images/development-cycle-with-users.svg" alt="Development" width="140" height="140">
 					<h2>Desarrollo e Implementación de Sistemas.</h2>
 					<p>Software a la medida de su empresa.</p>
 					<p>Desarrollo con software PeopleNet®.</p>
 					<p><a class="btn btn-secondary" href="#development" role="button">Ver detalles &raquo;</a></p>
 				</div>
 				<div class="col-lg-4">
-					<img class="rounded-circle" src="images/training.svg" alt="Training" width="140" height="140">
+					<img class="rounded-circle" src="/images/training.svg" alt="Training" width="140" height="140">
 					<h2>Capacitación.</h2>
 					<p></p>
 					<p><a class="btn btn-secondary" href="#training" role="button">Ver detalles &raquo;</a></p>
@@ -176,7 +176,7 @@
 					<a href="#contact_us" class="button button-reversed">Contáctenos</a>
 				</div>
 				<div class="col-md-5 order-md-1">
-					<img class="featurette-image img-fluid mx-auto" style="width:500px;height:500px;" src="logos/logo_simple.svg" alt="about">
+					<img class="featurette-image img-fluid mx-auto" style="width:500px;height:500px;" src="/logos/logo_simple.svg" alt="about">
 				</div>
 			</div>
 
@@ -185,7 +185,7 @@
 			<a name="consulting" class="title">&nbsp;</a>
 			<div class="row featurette">
 				<div class="col-md-7">
-					<h2 class="featurette-heading"><img src="logos/logo_simple.jpg">Consultoría y Asesoría.</h2>
+					<h2 class="featurette-heading"><img src="/logos/logo_simple.jpg">Consultoría y Asesoría.</h2>
 					<p class="text-muted">Nos ponemos del lado de su empresa!</p>
 					<p class="lead">Nos dedicamos principalmente a asesorar empresas respecto a sus proyectos de software, así como a
 						apoyarles a implementar los mismos. No somos partners de ninguna compañía por lo que puede esperar que nuestro
@@ -197,7 +197,7 @@
 						compañía con la cual no estamos relacionados ni afiliados de ninguna manera</p>
 				</div>
 				<div class="col-md-5">
-					<img class="featurette-image img-fluid mx-auto" src="images/consulting-500.jpg" alt="">
+					<img class="featurette-image img-fluid mx-auto" src="/images/consulting-500.jpg" alt="">
 				</div>
 			</div>
 
@@ -206,7 +206,7 @@
 			<a name="development" class="title">&nbsp;</a>
 			<div class="row featurette">
 				<div class="col-md-7 order-md-2">
-					<h2 class="featurette-heading"><img src="logos/logo_simple.jpg">Desarrollo e Implementación de Sistemas.</h2>
+					<h2 class="featurette-heading"><img src="/logos/logo_simple.jpg">Desarrollo e Implementación de Sistemas.</h2>
 					<p class="text-muted">Software a la medida.</p>
 					<p class="lead">Ofrecemos para su empresa el diseño, desarrollo e implementación de herramientas adaptadas para
 						sus necesidades. Trabajamos con diversas tecnologías, entre las cuales tenemos:</p>
@@ -248,7 +248,7 @@
 					</ul>
 				</div>
 				<div class="col-md-5 order-md-1">
-					<img class="featurette-image img-fluid mx-auto" src="images/development cycle with users.svg" alt="Development">
+					<img class="featurette-image img-fluid mx-auto" src="/images/development-cycle-with-users.svg" alt="Development">
 				</div>
 			</div>
 
@@ -257,12 +257,12 @@
 			<a name="training" class="title">&nbsp;</a>
 			<div class="row featurette">
 				<div class="col-md-7">
-					<h2 class="featurette-heading"><img src="logos/logo_simple.jpg">Capacitación</h2>
+					<h2 class="featurette-heading"><img src="/logos/logo_simple.jpg">Capacitación</h2>
 					<p class="lead">Ofrecemos capacitaciones privadas, técnicas y funcionales para que pueda hacer mejor uso de sus
 						productos.</p>
 				</div>
 				<div class="col-md-5">
-					<img class="featurette-image img-fluid mx-auto" src="images/training.svg" alt="">
+					<img class="featurette-image img-fluid mx-auto" src="/images/training.svg" alt="">
 				</div>
 			</div>
 
@@ -271,44 +271,44 @@
 			<a name="clients" class="title">&nbsp;</a>
 			<div class="row featurette">
 				<div class="col-md-5">
-					<img class="featurette-image img-fluid mx-auto" src="images/users.svg" alt="">
+					<img class="featurette-image img-fluid mx-auto" src="/images/users.svg" alt="">
 				</div>
 				<div class="col-md-7">
-					<h2 class="featurette-heading" style="margin-top: 10px;"><img src="logos/logo_simple.jpg">Clientes</h2>
+					<h2 class="featurette-heading" style="margin-top: 10px;"><img src="/logos/logo_simple.jpg">Clientes</h2>
 					<p class="lead">Algunos de nuestros clientes.</p>
 					<div id="carouselClients" class="carousel slide carousel-fade" data-ride="carousel">
 							<div class="carousel-inner">
 								<div class="carousel-item active" style="background-color: transparent;">
 									<div class="carousel-caption text-secondary">
-										<img class="mx-auto" style="height: 166px;" src="images/clientes/gdm.jpg" alt="First slide">
+										<img class="mx-auto" style="height: 166px;" src="/images/clientes/gdm.jpg" alt="First slide">
 										<h5><a href="//gdm.com.mx " class="">GDM</a></h5>
 										<p>Soluciones y Consultoría en Tecnología</p>
 									</div>
 								</div>
 								<div class="carousel-item bg-white">
 									<div class="carousel-caption text-secondary">
-										<img class="mx-auto" style="height: 166px;" src="images/clientes/cv.png" alt="First slide">
+										<img class="mx-auto" style="height: 166px;" src="/images/clientes/cv.png" alt="First slide">
 										<h5><a href="https://www.cruzverde.cl/">Farmacias Cruz Verde</a></h5>
 										<p>Somos una empresa dedicada a la salud, el cuidado y bienestar de nuestros clientes.</p>
 									</div>
 								</div>
 								<div class="carousel-item bg-white">
 									<div class="carousel-caption text-secondary">
-										<img class="mx-auto" style="height: 166px;" src="images/clientes/aliatec.png" alt="First slide">
+										<img class="mx-auto" style="height: 166px;" src="/images/clientes/aliatec.png" alt="First slide">
 										<h5><a href="https://aliatec.la/">Aliatec</a></h5>
 										<p>Soluciones para la Gestión de Capital Humano.</p>
 									</div>
 								</div>
 								<div class="carousel-item bg-white">
 									<div class="carousel-caption text-secondary">
-										<img class="mx-auto" style="height: 166px; background-color: #3399CC;" src="images/clientes/lema.png" alt="First slide">
+										<img class="mx-auto" style="height: 166px; background-color: #3399CC;" src="/images/clientes/lema.png" alt="First slide">
 										<h5><a href="//www.lema-la.com/">Lema</a></h5>
 										<p>Tecnología Informática.</p>
 									</div>
 								</div>
 								<div class="carousel-item bg-white">
 									<div class="carousel-caption text-secondary">
-										<img class="mx-auto" style="height: 166px;" src="images/clientes/busmedia.png" alt="First slide">
+										<img class="mx-auto" style="height: 166px;" src="/images/clientes/busmedia.png" alt="First slide">
 										<h5>BUSM3DIA</h5>
 										<p>Colectivo de Ideas.</p>
 									</div>
@@ -331,14 +331,14 @@
 			<a name="contact_us" class="title">&nbsp;</a>
 			<div class="row featurette">
 				<div class="col-md-7">
-					<h2 class="featurette-heading"><img src="logos/logo_simple.jpg">Contáctenos!</h2>
+					<h2 class="featurette-heading"><img src="/logos/logo_simple.jpg">Contáctenos!</h2>
 					<p class="lead">Puede contactarnos a nuestras oficinas en Chile:</p>
 					<p>
 						Apoquindo 6410 Of. 605 Las Condes,<br />
 						RM de Santiago de Chile. <br />
 						E-mail: info@tritium.cl
 					</p>
-					<p>O contáctenos en Facebook: <a href="https://www.facebook.com/tritiumconsultores/" target="_blank"><img src="images/facebook-icon.svg"
+					<p>O contáctenos en Facebook: <a href="https://www.facebook.com/tritiumconsultores/" target="_blank"><img src="/images/facebook-icon.svg"
 							 style="height:40px;width:40px;" alt=""></a></p>
 
 					<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Ftritiumconsultores%2F&tabs=timeline%2Cmessages&width=340&height=350&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1736418119708506"
@@ -347,7 +347,7 @@
 
 				</div>
 				<div class="col-md-5">
-					<img class="featurette-image img-fluid mx-auto" src="images/contact-us-500.jpg" alt="">
+					<img class="featurette-image img-fluid mx-auto" src="/images/contact-us-500.jpg" alt="">
 				</div>
 			</div>
 
