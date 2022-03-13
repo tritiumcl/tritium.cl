@@ -1,0 +1,51 @@
+{
+  "vite/modulepreload-polyfill": [],
+  "../../../../../logos/logo_con_texto_banner_inkscape.svg": [],
+  "../../../../../images/carousel-back.svg": [],
+  "../../../../../logos/logo_simple.svg": [],
+  "../../../../../images/consulting-circle-140.jpg": [],
+  "../../../../../images/development-cycle-with-users.svg": [],
+  "../../../../../images/training.svg": [],
+  "../../../../../logos/logo_simple.jpg": [],
+  "../../../../../images/consulting-500.jpg": [],
+  "../../../../../images/users.svg": [],
+  "../../../../../images/clientes/gdm.jpg": [],
+  "../../../../../images/clientes/cv.png": [],
+  "../../../../../images/clientes/aliatec.png": [],
+  "../../../../../images/clientes/lema.png": [],
+  "../../../../../images/clientes/busmedia.png": [],
+  "../../../../../images/facebook-icon.svg": [],
+  "../../../../../images/contact-us-500.jpg": [],
+  "plugin-vue:export-helper": [],
+  "src/components/TritiumMain.vue": [],
+  "src/App.vue": [],
+  "src/main.ts": [],
+  "index.html": [],
+  "node_modules/.pnpm/@vue+shared@3.2.31/node_modules/@vue/shared/dist/shared.esm-bundler.js": [
+    "./assets/vendor.137a830b.js"
+  ],
+  "node_modules/.pnpm/@vue+reactivity@3.2.31/node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [
+    "./assets/vendor.137a830b.js"
+  ],
+  "node_modules/.pnpm/@vue+runtime-core@3.2.31/node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [
+    "./assets/vendor.137a830b.js"
+  ],
+  "node_modules/.pnpm/@vue+runtime-dom@3.2.31/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [
+    "./assets/vendor.137a830b.js"
+  ],
+  "node_modules/.pnpm/vue@3.2.31/node_modules/vue/dist/vue.runtime.esm-bundler.js": [
+    "./assets/vendor.137a830b.js"
+  ],
+  "node_modules/.pnpm/@vueuse+head@0.7.5_vue@3.2.31/node_modules/@vueuse/head/dist/index.mjs": [
+    "./assets/vendor.137a830b.js"
+  ],
+  "node_modules/.pnpm/vite-ssg@0.17.11_b665a995590b1e0aa2fe133e8f8fbc6c/node_modules/vite-ssg/dist/chunks/state.mjs": [
+    "./assets/vendor.137a830b.js"
+  ],
+  "node_modules/.pnpm/vite-ssg@0.17.11_b665a995590b1e0aa2fe133e8f8fbc6c/node_modules/vite-ssg/dist/chunks/ClientOnly.mjs": [
+    "./assets/vendor.137a830b.js"
+  ],
+  "node_modules/.pnpm/vite-ssg@0.17.11_b665a995590b1e0aa2fe133e8f8fbc6c/node_modules/vite-ssg/dist/client/single-page.mjs": [
+    "./assets/vendor.137a830b.js"
+  ]
+}
